@@ -1,0 +1,5 @@
+.idea/
+.npmignore
+node_modules/
+package-lock.json
+/docs/

@@ -1,2 +1,5 @@
-# Helper
-some helper code for react js
+
+Cuong ho Helper
+
+Lead Maintainer: Cuongho
+
